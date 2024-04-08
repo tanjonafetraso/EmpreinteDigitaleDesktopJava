@@ -1,0 +1,10 @@
+com.zkteco.biometric.ZKFPDemo$1
+com.zkteco.biometric.ZKFPDemo$2
+com.zkteco.biometric.ZKFPDemo$3
+com.zkteco.biometric.ZKFPDemo$4
+com.zkteco.biometric.ZKFPDemo
+com.zkteco.biometric.ZKFPDemo$WorkThread
+com.zkteco.biometric.ZKFPDemo$5
+com.zkteco.biometric.ZKFPDemo$6
+com.zkteco.biometric.ZKFPDemo$7
+com.zkteco.biometric.ZKFPDemo$8
